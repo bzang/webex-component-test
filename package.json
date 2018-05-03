@@ -1,0 +1,26 @@
+{
+  "name": "webex-component-test",
+  "version": "1.0.0",
+  "description": "webex-component-test",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "Michele Bertoli",
+  "license": "MIT",
+  "dependencies": {
+    "@ciscospark/react-component-button": "^0.1.290",
+    "react": "^16.2.0",
+    "react-dom": "^16.3.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.1",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.28.0",
+    "extract-text-webpack-plugin": "^3.0.0",
+    "file-loader": "^1.1.11",
+    "style-loader": "^0.19.0",
+    "webpack": "^3.6.0"
+  }
+}
